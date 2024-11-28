@@ -32,7 +32,7 @@
 - Docker (optional for database)
 
 # Installation and Setup
-#Backend:
+    #Backend:
 1. Navigate to the backend folder:
    ```bash
    cd backend
@@ -43,13 +43,15 @@
    Update the database configuration in index.js or use a .env file.
 4. Start the backend server:
    node index.js
-#Frontend
+   
+   #Frontend:
 1. Navigate to the frontend folder:
     cd frontend
 2. Install dependencies:
     npm install
 3. Start the react app:
-   npm start
+    npm start
+
 
 # Usage 
 1. Open the frontend application in your browser (`http://localhost:3000`).
