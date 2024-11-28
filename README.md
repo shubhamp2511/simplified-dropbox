@@ -32,7 +32,7 @@
 - Docker (optional for database)
 
 # Installation and Setup
-    #Backend:
+  #Backend:
 1. Navigate to the backend folder:
    ```bash
    cd backend
@@ -44,7 +44,7 @@
 4. Start the backend server:
    node index.js
    
-   #Frontend:
+  #Frontend:
 1. Navigate to the frontend folder:
     cd frontend
 2. Install dependencies:
